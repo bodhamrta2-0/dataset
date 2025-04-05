@@ -1,0 +1,101 @@
+Budgeted Amount,Actual Spending,Variance,Merchant,Description,Date,Category
+9701,9203,-498,Apple Store,online shopping,01 January 2023,Shopping
+8726,5921,-2805,Netflix,movie,02 January 2023,Entertainment
+19127,20448,1321,Starbucks,drinks,03 January 2023,Food & Dining
+13403,14716,1313,Apple Store,online shopping,04 January 2023,Shopping
+14801,16427,1626,Shell,fuel purchase,05 January 2023,Fuel
+19485,20301,816,Amazon,online shopping,06 January 2023,Shopping
+9724,9778,54,Starbucks,drinks,07 January 2023,Food & Dining
+8185,10649,2464,Amazon,online_shopping,08 January 2023,Shopping
+6117,3566,-2551,Starbucks,food,09 January 2023,Food & Dining
+9938,9869,-69,Shell,fuel purchase,10 January 2023,Fuel
+12122,15101,2979,Flipkart,online_shopping,11 January 2023,Shopping
+6932,5365,-1567,Netflix,monthly subscription,12 January 2023,Subscription
+9928,8042,-1886,McDonald's,drinks,13 January 2023,Food & Dining
+8126,6306,-1820,Uber,ride,14 January 2023,Transportation
+18771,21332,2561,McDonald's,meal,15 January 2023,Food & Dining
+14304,12616,-1688,Uber,ride to work,16 January 2023,Transportation
+19031,16343,-2688,Apple Store,app purchase,17 January 2023,Digital Services
+5026,7300,2274,Apple Store,app purchase,18 January 2023,Digital Services
+10434,11670,1236,Uber,travel,19 January 2023,Transportation
+12349,12431,82,Netflix,monthly subscription,20 January 2023,Subscription
+6218,3226,-2992,Flipkart,online_shopping,21 January 2023,Shopping
+19349,21649,2300,Apple Store,app purchase,22 January 2023,Digital Services
+18541,16040,-2501,Apple Store,app purchase,23 January 2023,Digital Services
+13845,12626,-1219,Uber,travel,24 January 2023,Transportation
+13706,12094,-1612,Starbucks,food,25 January 2023,Food & Dining
+8911,10716,1805,Apple Store,online shopping,26 January 2023,Shopping
+11253,11560,307,Starbucks,coffee,27 January 2023,Food & Dining
+17317,20087,2770,Apple Store,online shopping,28 January 2023,Shopping
+9259,7555,-1704,Apple Store,app purchase,29 January 2023,Digital Services
+13902,12117,-1785,Netflix,movie subscription,30 January 2023,Entertainment
+12091,10011,-2080,Uber,ride to work,31 January 2023,Transportation
+18811,20803,1992,Uber,ride,01 February 2023,Transportation
+12443,15147,2704,Starbucks,food,02 February 2023,Food & Dining
+14425,11591,-2834,Netflix,monthly subscription,03 February 2023,Subscription
+17875,15033,-2842,McDonald's,meal,04 February 2023,Food & Dining
+9416,7343,-2073,McDonald's,drinks,05 February 2023,Food & Dining
+5273,5053,-220,Shell,petrol,06 February 2023,Fuel
+11036,12653,1617,Starbucks,food,07 February 2023,Food & Dining
+5356,7114,1758,Uber,ride to work,08 February 2023,Transportation
+7094,7584,490,Starbucks,drinks,09 February 2023,Food & Dining
+19171,16669,-2502,Uber,ride,10 February 2023,Transportation
+7855,10027,2172,Netflix,monthly subscription,11 February 2023,Subscription
+18543,18425,-118,Starbucks,food,12 February 2023,Food & Dining
+9546,11349,1803,Uber,ride to work,13 February 2023,Transportation
+17823,16114,-1709,Flipkart,movie subscription,14 February 2023,Entertainment
+10959,8005,-2954,Flipkart,online shopping,15 February 2023,Shopping
+14305,14187,-118,Netflix,movie,16 February 2023,Entertainment
+16852,18380,1528,Starbucks,food,17 February 2023,Food & Dining
+11601,12362,761,Netflix,movie subscription,18 February 2023,Entertainment
+12361,9605,-2756,Shell,petrol,19 February 2023,Fuel
+15044,15358,314,Starbucks,drinks,20 February 2023,Food & Dining
+18099,17445,-654,Flipkart,online shopping,21 February 2023,Shopping
+17761,17012,-749,Amazon,online shopping,22 February 2023,Shopping
+12481,11014,-1467,McDonald's,meal,23 February 2023,Food & Dining
+12971,14761,1790,Shell,diesel,24 February 2023,Fuel
+12636,12929,293,Apple Store,app purchase,25 February 2023,Digital Services
+10740,12542,1802,Shell,diesel,26 February 2023,Fuel
+13929,11880,-2049,Flipkart,online_shopping,27 February 2023,Shopping
+16406,15931,-475,Netflix,monthly subscription,28 February 2023,Subscription
+18376,19933,1557,Apple Store,app purchase,01 March 2023,Digital Services
+19195,19920,725,Uber,ride to work,02 March 2023,Transportation
+15233,16631,1398,Netflix,movie subscription,03 March 2023,Entertainment
+7317,5877,-1440,McDonald's,drinks,04 March 2023,Food & Dining
+6720,5701,-1019,Amazon,online_shopping,05 March 2023,Shopping
+5481,3300,-2181,Netflix,movie,06 March 2023,Entertainment
+10401,11538,1137,Apple Store,app purchase,07 March 2023,Digital Services
+9634,7981,-1653,Starbucks,drinks,08 March 2023,Food & Dining
+19978,19935,-43,Uber,ride to work,09 March 2023,Transportation
+18120,16678,-1442,Amazon,online_shopping,10 March 2023,Shopping
+6365,4050,-2315,Uber,ride,11 March 2023,Transportation
+17726,19338,1612,Amazon,online shopping,12 March 2023,Shopping
+9445,7182,-2263,Uber,ride,13 March 2023,Transportation
+11326,14041,2715,Starbucks,drinks,14 March 2023,Food & Dining
+8442,6118,-2324,Starbucks,food,15 March 2023,Food & Dining
+6112,6493,381,Apple Store,online shopping,16 March 2023,Shopping
+13028,12663,-365,Flipkart,online shopping,17 March 2023,Shopping
+12796,10729,-2067,McDonald's,meal,18 March 2023,Food & Dining
+15977,18871,2894,Flipkart,online_shopping,19 March 2023,Shopping
+5238,5726,488,McDonald's,coffee purchase,20 March 2023,Food & Dining
+19426,21949,2523,Shell,fuel purchase,21 March 2023,Fuel
+5903,6780,877,Starbucks,food,22 March 2023,Food & Dining
+19676,17246,-2430,Netflix,movie subscription,23 March 2023,Entertainment
+7134,9608,2474,Uber,ride,24 March 2023,Transportation
+16130,17310,1180,Flipkart,online shopping,25 March 2023,Shopping
+19842,18193,-1649,Starbucks,drinks,26 March 2023,Food & Dining
+9329,6732,-2597,Apple Store,app purchase,27 March 2023,Digital Services
+19092,17313,-1779,Amazon,online_shopping,28 March 2023,Shopping
+7095,5610,-1485,Starbucks,food,29 March 2023,Food & Dining
+19813,21133,1320,Starbucks,drinks,30 March 2023,Food & Dining
+11560,14295,2735,Apple Store,online shopping,31 March 2023,Shopping
+7916,6213,-1703,Starbucks,drinks,01 April 2023,Food & Dining
+13880,12939,-941,Amazon,movie subscription,02 April 2023,Entertainment
+16172,15119,-1053,Apple Store,online shopping,03 April 2023,Shopping
+12137,11461,-676,Netflix,movie subscription,04 April 2023,Entertainment
+9146,6512,-2634,Starbucks,food,05 April 2023,Food & Dining
+19146,17949,-1197,McDonald's,drinks,06 April 2023,Food & Dining
+12030,11361,-669,Starbucks,coffee,07 April 2023,Food & Dining
+10852,8946,-1906,Shell,fuel purchase,08 April 2023,Fuel
+13718,15212,1494,Apple Store,online shopping,09 April 2023,Shopping
+13109,13298,189,Shell,petrol,10 April 2023,Fuel
